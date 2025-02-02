@@ -1,7 +1,7 @@
 # Introduction
 This repository contains three distinct yet complementary algorithms designed to explore and optimize data in large matrices. Each method provides unique strategies for handling search and analysis, catering to different use cases in both exploratory and precision-driven tasks.
 
-### R.E.B.S (Rhythmic Exploration Batch Search)
+### R.E.B.S (Rhythmic Expansion Batch Search)
 R.E.B.S is a radial expansion search algorithm that explores a dataset/matrix using two vectors Vx and Vy while isolating the crust during (n) from the explored submatrix during (n-1).
 
 ### G.E.B.S (Gradient Expansion Batch Search)
