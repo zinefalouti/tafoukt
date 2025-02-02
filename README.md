@@ -100,5 +100,12 @@ Where:
 
 ---
 
+# Why "Tafoukt"?
+Tafoukt (ⵜⴰⴼⵓⴽⵜ) means "the Sun" in Tamazight (North African Native). It also symbolizes guidance through obstacles, but in the case of R.E.B.S, G.E.B.S, and L.E.B.S it is a mere base inspiration of the shape drawn by these 3 algorithm in a geometrical sense while batch searching a large matrix. Starting from the center in radial core precise search, then emitting rays throughout the core diameter either using a gradient approach (G.E.B.S), or a learning approach (L.E.B.S).
+
+> **Geometric Representation of R.E.B.S, G.E.B.S, and L.E.B.S** <br>
+[!image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/Global-Figure.png)
+
+
 
 
