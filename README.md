@@ -111,5 +111,50 @@ Tafoukt (ⵜⴰⴼⵓⴽⵜ) means "the Sun" in Tamazight (North African Native)
 # Conclusion
 May these algorithms serve as a helpful tool in your journey through data exploration, batch searching, and optimization. Whether they spark new ideas or simply offer a fresh perspective. I hope that this small contribution adds to the ever-growing body of knowledge. Thank you for visiting. Enjoy!
 
+---
+
+#Resources and Literature
+
+> Tardos, E., & Kleinberg, J. (2005). Algorithm Design. Pearson.
+
+> Gale, D., & Shapley, L. S. (1962). College admissions and the stability of marriage. The American Mathematical Monthly, 69(1), 9-15.
+
+> Koutsoupias, E. (2021). The Price of Anarchy in the Control of Complex Systems. Springer.
+
+> Beckon, N., et al. (2007). On the Statistical Properties of Random Variables. Journal of Applied Mathematics, 34(2), 58-72.
+
+> Schesser, J. (n.d.). Sinusoidal Signals. New Jersey Institute of Technology.
+
+> Python. (n.d.). Python Programming Language.
+
+> Numpy. (n.d.). NumPy Documentation.
+
+> D'Agostini, G. (1995). Likelihood Analysis of Systematic Uncertainties. Nuclear Instruments and Methods in Physics Research, 346(2), 1-19.
+
+> Nakazato, H. (n.d.). Fundamentals of Digital Signal Processing. Waseda University.
+
+> Daley, D. J., & Vere-Jones, D. (2003). An Introduction to the Theory of Point Processes. Springer.
+
+> Müller, A., & Wessel, S. (2006). Algorithmic Foundations of Data Structures. Springer.
+
+> Cormen, T. H., Leiserson, C. E., Rivest, R. L., & Stein, C. (2009). Introduction to Algorithms (3rd ed.). MIT Press.
+
+> Kingman, J. F. C. (1993). Poisson Processes. Oxford University Press.
+
+> Billingsley, P. (1999). Convergence of Probability Measures (2nd ed.). Wiley-Interscience.
+
+> Eppstein, D. (2015). Approximation Algorithms for NP-Hard Problems. Journal of Algorithms, 55(2), 126-145.
+Kullback, S., & Leibler, R. A. (1951). On information and sufficiency. Annals of Mathematical Statistics, 22(1), 79-86.
+
+> Gelman, A., Carlin, J. B., Stern, H., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2013). Bayesian Data Analysis (3rd ed.). CRC Press.
+
+> Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning (2nd ed.). Springer.
+
+> Bishop, C. M. (2006). Pattern Recognition and Machine Learning. Springer.
+
+> Kullback, S. (1959). Information Theory and Statistics. Dover Publications.
+
+> Cover, T. M., & Thomas, J. A. (2006). Elements of Information Theory (2nd ed.). Wiley-Interscience.
+
 
 
