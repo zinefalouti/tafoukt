@@ -40,10 +40,10 @@ Where:
 - 1: Precision through Y (Rows) a value clamped between 0.1 and 1, where 1 is full precision search.
 - False: A boolean to activate or deactivate the debug mode
 
-**Central Point Detection (Point Zero of the Agent)** <br>
+**Central Point Detection (Point Zero of the Agent)** <br><br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae1.png" width="500"> <br>
 
-**First Expansion Example with vectors (Vx,Vy)** <br>
+**First Expansion Example with vectors (Vx,Vy)** <br><br>
 ![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig3.png) <br>
 
 ---
@@ -62,13 +62,13 @@ Where:
 - (260,260): (VectorX,VectorY) of how the split between "Core" and "Gradient" Areas will happen, including the global slice. The Core area is formed with a spiral alongside the center of the larger matrix and from the central submatrix the gradient begins and at its most intense point and falls off at both edges of the larger matrix extremities.
 - (0.3,0.7): 0.3 represents the min pruning during the gradient, and 0.7 represents the max pruning during the gradient.
 
-**Drawing the Core Area in G.E.B.S (Vx,Vy)** <br>
-![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig6.png) <br>
+**Drawing the Core Area in G.E.B.S (Vx,Vy)** <br><br>
+![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig6.png) <br><br>
 
-**The Split of The Two Groups of Submatrices to "Core" and "Gradient" Areas** <br>
-<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae5.png" width="630"> <br>
+**The Split of The Two Groups of Submatrices to "Core" and "Gradient" Areas** <br><br>
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae5.png" width="630"> <br><br>
 
-**Sinusoidal Function for the Gradient Zone** <br>
+**Sinusoidal Function for the Gradient Zone** <br><br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae6.png" width="500"> <br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/Figure8.png" width="500"> <br>
 
