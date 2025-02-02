@@ -89,14 +89,16 @@ Where:
 - (630,630): (Total Columns, Total Rows) of the each sector/submatrix. This defines how you want to slice the larger matrix (data)
 - False: A boolean that switches between "Brutal" and "Prudent" modes, where True activates the "Brutal" mode and "False" the "Prudent" one.
 
-> **L.E.B.S Brutal and Prudent Modes <br>
+> **L.E.B.S Brutal and Prudent Modes** <br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/Figure9.png" width="630"> <br><br>
 
-> **Learning Method from subM(0), subM(n/2), and subM(n) <br>
+> **Learning Method from subM(0), subM(n/2), and subM(n)** <br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae8.png" width="600"> <br><br>
 
-> **Poisson for Layering the Recorded Patterns from the learning submatrices. <br>
+> **Poisson for Layering the Recorded Patterns from the learning submatrices** <br>
 <img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae9.png" width="500"> <br><br>
 
 ---
+
+
 
