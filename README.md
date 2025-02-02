@@ -40,11 +40,11 @@ Where:
 - 1: Precision through Y (Rows) a value clamped between 0.1 and 1, where 1 is full precision search.
 - False: A boolean to activate or deactivate the debug mode
 
-**Central Point Detection (Point Zero of the Agent)**
-<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae1.png" width="500">
+**Central Point Detection (Point Zero of the Agent)** <br>
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae1.png" width="500"> <br>
 
-**First Expansion Example with vectors (Vx,Vy)**
-![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig3.png)
+**First Expansion Example with vectors (Vx,Vy)** <br>
+![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig3.png) <br>
 
 ---
 ### Using G.E.B.S
