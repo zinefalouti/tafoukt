@@ -21,7 +21,7 @@ While R.E.B.S doesn't require any dependencies, G.E.B.S and L.E.B.S require only
 ```
 pip install numpy
 ```
-
+---
 ### Using R.E.B.S
 Assuming R.E.B.S exists at the same level as your program, please use the following:
 ```
@@ -41,7 +41,23 @@ Where:
 - False: A boolean to activate or deactivate the debug mode
 
 **Central Point Detection (Point Zero of the Agent)**
-![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae1.png)
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae1.png" width="500">
 
 **First Expansion Example with vectors (Vx,Vy)**
 ![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig3.png)
+
+---
+### Using G.E.B.S
+Assuming G.E.B.S exists at the same level as your program, please use the following:
+```
+import gebs
+```
+And call the function
+```
+gebs.oversee(data,objectives,(260,260),(0.3,0.7))
+```
+Where:
+- data: The grid or matrix containing the target data
+- objectives: A list [] of multiple objectives
+- (260,260): (VectorX,VectorY) of how the split between "Core" and "Gradient" Areas will happen, including the global slice. The Core area is formed with a spiral alongside the center of the larger matrix and from the central submatrix the gradient begins and at its most intense point and falls off at both edges of the larger matrix extremities.
+- (0.3,0.7): 0.3 represents the min pruning during the gradient, and 0.7 represents teh max pruning during the gradient.
