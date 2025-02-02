@@ -60,4 +60,17 @@ Where:
 - data: The grid or matrix containing the target data
 - objectives: A list [] of multiple objectives
 - (260,260): (VectorX,VectorY) of how the split between "Core" and "Gradient" Areas will happen, including the global slice. The Core area is formed with a spiral alongside the center of the larger matrix and from the central submatrix the gradient begins and at its most intense point and falls off at both edges of the larger matrix extremities.
-- (0.3,0.7): 0.3 represents the min pruning during the gradient, and 0.7 represents teh max pruning during the gradient.
+- (0.3,0.7): 0.3 represents the min pruning during the gradient, and 0.7 represents the max pruning during the gradient.
+
+**Drawing the Core Area in G.E.B.S (Vx,Vy)** <br>
+![image](https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/fig6.png) <br>
+
+**The Split of The Two Groups of Submatrices to "Core" and "Gradient" Areas** <br>
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae5.png" width="630"> <br>
+
+**Sinusoidal Function for the Gradient Zone** <br>
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/formulae6.png" width="500"> <br>
+<img src="https://raw.githubusercontent.com/zinefalouti/griidtech-hosting/refs/heads/main/Research4-images/Figure8.png" width="500"> <br>
+
+---
+
