@@ -1,14 +1,14 @@
 # Introduction
 This repository contains three distinct yet complementary algorithms designed to explore and optimize data in large matrices. Each method provides unique strategies for handling search and analysis, catering to different use cases in both exploratory and precision-driven tasks.
 
-### R.E.B.S (Random Exploration Batch Search)
-R.E.B.S is a stochastic approach that combines random search techniques with batch processing to identify key patterns within large datasets. By leveraging randomness, it is effective in situations where a broad, less structured search is required.
+### R.E.B.S (Rhythmic Exploration Batch Search)
+R.E.B.S is a radial expansion search algorithm that explores a dataset/matrix using two vectors Vx and Vy while isolating the crust during (n) from the explored submatrix during (n-1).
 
 ### G.E.B.S (Gradient Expansion Batch Search)
-G.E.B.S focuses on expanding search regions dynamically, guided by gradients, to refine search precision. It is designed for use cases where the search space is large but structured in a way that allows for targeted, gradient-based exploration.
+G.E.B.S slices the larger matrix globally using both movement vectors Vx and Vy then isolates two areas, "Core" which is thoroughly searched, and the "Gradient" which is gradually searched using min and max precision parameters.
 
 ### L.E.B.S (Learning Exploration Batch Search)
-L.E.B.S combines learning-based exploration with batch search methods. It adapts over time, fine-tuning its search patterns based on previous findings, which makes it particularly useful for iterative optimization tasks in evolving datasets.
+L.E.B.S slices the larger matrix globally using the width of sector Sx and the height of sector Sy, and searches each using two different methods, "Brutal," and "Prudent." The "Prudent" method uses submatrices M(0), M(n/2), and M(n) to study the 3 patterns found in these 3 submatrices and layers them together to produce a global one using "Poisson," the global pattern then is used a mask of search while looping to find objectives within each sector. 
 
 *These methods can be employed independently or in combination to suit a variety of problem domains, ranging from exploratory analysis to precise optimization.*
 
