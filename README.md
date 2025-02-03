@@ -113,7 +113,7 @@ May these algorithms serve as a helpful tool in your journey through data explor
 
 ---
 
-#Resources and Literature
+# Resources and Literature
 
 > Tardos, E., & Kleinberg, J. (2005). Algorithm Design. Pearson.
 
