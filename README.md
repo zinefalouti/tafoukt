@@ -61,7 +61,7 @@ gebs.oversee(data,objectives,(260,260),(0.3,0.7))
 Where:
 - data: The grid or matrix containing the target data
 - objectives: A list [] of multiple objectives
-- (260,260): (VectorX,VectorY) of how the split between "Core" and "Gradient" Areas will happen, including the global slice. The Core area is formed with a spiral alongside the center of the larger matrix and from the central submatrix the gradient begins and at its most intense point and falls off at both edges of the larger matrix extremities.
+- (260,260): (VectorX,VectorY) of how the split between "Core" and "Gradient" Areas will happen, including the global slice. The Core area is formed with a spiral alongside the center of the larger matrix from the central submatrix, while the gradient begins at  its most intense point and falls off at both edges of the larger matrix extremities.
 - (0.3,0.7): 0.3 represents the min pruning during the gradient, and 0.7 represents the max pruning during the gradient.
 
 > **Drawing the Core Area in G.E.B.S (Vx,Vy)** <br><br>
@@ -88,7 +88,7 @@ lebs.learner(data,objectives,(630,630),False)
 Where:
 - data: The grid or matrix containing the target data
 - objectives: A list [] of multiple objectives
-- (630,630): (Total Columns, Total Rows) of the each sector/submatrix. This defines how you want to slice the larger matrix (data)
+- (630,630): (Total Columns, Total Rows) of each sector/submatrix. This defines how you want to slice the larger matrix (data)
 - False: A boolean that switches between "Brutal" and "Prudent" modes, where True activates the "Brutal" mode and "False" the "Prudent" one.
 
 > **L.E.B.S Brutal and Prudent Modes** <br>
